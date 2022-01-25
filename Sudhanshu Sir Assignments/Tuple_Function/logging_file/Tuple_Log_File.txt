@@ -1,0 +1,24 @@
+
+2022-01-25/19:27:00		Entered in Type function
+
+2022-01-25/19:27:00		Type Of Entered data structure : <class 'tuple'>
+
+2022-01-25/19:27:00		Entered in length method
+
+2022-01-25/19:27:00		Length Of Entered Tuple : 9
+
+2022-01-25/19:27:00		Entered in Type function
+
+2022-01-25/19:27:00		Type Of Entered data structure : <class 'tuple'>
+
+2022-01-25/19:27:00		Entered in Index method
+
+2022-01-25/19:27:00		Index Of Given Value In tuple : 5
+
+2022-01-25/19:27:00		Entered in Type function
+
+2022-01-25/19:27:00		Type Of Entered data structure : <class 'tuple'>
+
+2022-01-25/19:27:00		Entered in Count method
+
+2022-01-25/19:27:00		Number Of Times 4 Appears In The tuple : 3

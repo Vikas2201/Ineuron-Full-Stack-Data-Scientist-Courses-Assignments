@@ -1,0 +1,10 @@
+
+2022-01-25/19:27:00		Entered in main.py python file
+
+2022-01-25/19:27:00		Given Tuple : (4, 6, 7, 8, 9, 11, 4, 6, 4)
+
+2022-01-25/19:27:00		Length of Given Tuple : 9
+
+2022-01-25/19:27:00		Index of '11' in given Tuple : 5
+
+2022-01-25/19:27:00		4 Occur in the given Tuple : 3
