@@ -1,0 +1,68 @@
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Keys function
+
+2022-01-25/21:55:24		A list of dictionary keys : [1, 2, 3, 4, 5]
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Values function
+
+2022-01-25/21:55:24		A list of dictionary Values : ['Vikas', 'Yogesh', 'Vicky', 'Khushi', 'Riya']
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Items function
+
+2022-01-25/21:55:24		A list of dictionary in (key, value) tuple pairs : dict_items([(1, 'Vikas'), (2, 'Yogesh'), (3, 'Vicky'), (4, 'Khushi'), (5, 'Riya')])
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Get function
+
+2022-01-25/21:55:24		for 3 key value in the dictionary : Vicky
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Get function
+
+2022-01-25/21:55:24		for 6 key value in the dictionary does not exit 
+
+2022-01-25/21:55:24		Entered in Values function
+
+2022-01-25/21:55:24		Exception occurred in Setdefault function. Exception message :  setdefault expected at least 1 arguments, got 0
+
+2022-01-25/21:55:24		Exited from the Setdefault function
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in POP method
+
+2022-01-25/21:55:24		Exception occurred in POP function. Exception message :  6
+
+2022-01-25/21:55:24		Exited from the POP function
+
+2022-01-25/21:55:24		Entered in Type function
+
+2022-01-25/21:55:24		Type Of Entered data structure : <class 'dict'>
+
+2022-01-25/21:55:24		Entered in Clear function
+
+2022-01-25/21:55:24		New dictionary After Removing A Remove all items from the dictionary : {}

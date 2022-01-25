@@ -1,0 +1,18 @@
+
+2022-01-25/21:55:24		Entered in main.py python file
+
+2022-01-25/21:55:24		Given List : {1: 'Vikas', 2: 'Yogesh', 3: 'Vicky', 4: 'Khushi', 5: 'Riya'}
+
+2022-01-25/21:55:24		List of Keys of given dictionary : [1, 2, 3, 4, 5]
+
+2022-01-25/21:55:24		List of Values Of Dictionary : ['Vikas', 'Yogesh', 'Vicky', 'Khushi', 'Riya']
+
+2022-01-25/21:55:24		A list of dictionary in (key, value) tuple pairs : dict_items([(1, 'Vikas'), (2, 'Yogesh'), (3, 'Vicky'), (4, 'Khushi'), (5, 'Riya')])
+
+2022-01-25/21:55:24		Value of 3 key in the dictionary : Vicky
+
+2022-01-25/21:55:24		Value of 6 key in the dictionary : None
+
+2022-01-25/21:55:24		Remove key 6 in the dictionary : None
+
+2022-01-25/21:55:24		Delete all element form dictionary : {}
