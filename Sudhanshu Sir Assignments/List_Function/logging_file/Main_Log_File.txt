@@ -1,0 +1,20 @@
+
+2022-01-25/13:37:53		Entered in main.py python file
+
+2022-01-25/13:37:53		Given List : [2, 4, 6, 'Vikas', 'yogesh', 4, (3+2j)]
+
+2022-01-25/13:37:53		Length of Given List : 7
+
+2022-01-25/13:37:53		New List After Appending 4 in the given list : [2, 4, 6, 'Vikas', 'yogesh', 4, (3+2j), 4]
+
+2022-01-25/13:37:53		New List After Removing (3+2j) from the given list : [2, 4, 6, 'Vikas', 'yogesh', 4, 4]
+
+2022-01-25/13:37:53		Index of 'Vikas' in given list : 3
+
+2022-01-25/13:37:53		4 Occur in the given list : 3
+
+2022-01-25/13:37:53		Reverse of given list : [4, (3+2j), 4, 'yogesh', 'Vikas', 6, 4, 2]
+
+2022-01-25/13:37:53		Sorting a list : None
+
+2022-01-25/13:37:53		Delete all element form list : []

@@ -1,0 +1,186 @@
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 7
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 7
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6, 'Vikas', 'yogesh', 4, (3+2j), 4]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 0
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 1
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 2
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 3
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6, 'Vikas']
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 4
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6, 'Vikas', 'yogesh']
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 5
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6, 'Vikas', 'yogesh', 4]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in length method
+
+2022-01-25/13:37:53		Length Of Entered List : 6
+
+2022-01-25/13:37:53		Entered in Append method
+
+2022-01-25/13:37:53		New List After Appending A Element : [2, 4, 6, 'Vikas', 'yogesh', 4, 4]
+
+2022-01-25/13:37:53		Entered in Remove method
+
+2022-01-25/13:37:53		New List After Removing A Element : [2, 4, 6, 'Vikas', 'yogesh', 4, 4]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Index method
+
+2022-01-25/13:37:53		Index Of Given Value In List : 3
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Count method
+
+2022-01-25/13:37:53		Number Of Times 4 Appears In The List : 3
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Reverse method
+
+2022-01-25/13:37:53		Reverse of A Given List : [4, (3+2j), 4, 'yogesh', 'Vikas', 6, 4, 2]
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Sort method
+
+2022-01-25/13:37:53		Exception occurred in Sort function. Exception message :  '<' not supported between instances of 'str' and 'int'
+
+2022-01-25/13:37:53		Exited from the Sort function
+
+2022-01-25/13:37:53		Entered in Type function
+
+2022-01-25/13:37:53		Type Of Entered data structure : <class 'list'>
+
+2022-01-25/13:37:53		Entered in Clear method
+
+2022-01-25/13:37:53		New List After Removing A Remove all items from the list : []
